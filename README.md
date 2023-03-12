@@ -4,6 +4,7 @@
 </p>
 
 <h3 align="center">
+<strong>Migrating to Nuxt 3.</strong>
   <strong>An ecosystem of developer tools that accelerate and simplify building eCommerce Storefronts</strong>
 </h3>
 <p align="center">
